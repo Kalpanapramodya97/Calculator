@@ -1,3 +1,3 @@
 #!/bin/bash
-
-echo "division"
+echo "This is the division feature"
+echo "10 / 2 = 5"
